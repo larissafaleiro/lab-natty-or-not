@@ -11,7 +11,7 @@ Chatbot e Text to Speech
 Solicitei ao ChatGPD que criasse o conteúdo em texto. Em seguida, utilizei a ferramenta Text to Speech do ElevenLabs para criar o audio a partir do texto produzido pelo ChatGPD.
 
 ## 🚀 Resultados
-Foi produzido conteudo em audio apresentando razões para visitar Sevilha e indicando pontos turísticos da cidade.
+Foi produzido conteudo em audio apresentando razões para visitar Sevilha e indicando pontos turísticos da cidade. Arquivo em anexo
 
 ## 💭 Reflexão (Opcional)
 
